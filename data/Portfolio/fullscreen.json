@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "videoSource": "/assets/imgs/works/full/vid1.mp4",
+    "caption": {
+      "subTitle": "Unreal Engine: Environment Design",
+      "title": "Old Horror Palace",
+      "link": "/project1"
+    }
+  },
+  {
+    "id": 2,
+    "videoSource": "/assets/imgs/works/full/ai_vid1.mp4",
+    "caption": {
+      "subTitle": "Envato AI: Generations",
+      "title": "Ancient Man In Office",
+      "link": "/project2"
+    }
+  },
+  {
+    "id": 3,
+    "videoSource": "/assets/imgs/works/full/vid3.mp4",
+    "caption": {
+      "subTitle": "Unreal Engine: Environment Design",
+      "title": "Road With Rain environment",
+      "link": "/project3"
+    }
+  },
+  {
+    "id": 4,
+    "videoSource": "/assets/imgs/works/full/ai_vid2.mp4",
+    "caption": {
+      "subTitle": "Envato AI: Generations",
+      "title": "Creepy Zombie Walks In",
+      "link": "/project4"
+    }
+  },
+  {
+    "id": 5,
+    "videoSource": "/assets/imgs/works/full/vid4.mp4",
+    "caption": {
+      "subTitle": "Environment Design",
+      "title": "Old Petrol Pump",
+      "link": "/project4"
+    }
+  }
+]

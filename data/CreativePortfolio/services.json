@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "numb": "01",
+    "title": "Product Design",
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "content": "Designing functional, visually engaging products that balance aesthetics, usability, and user experience across physical and digital mediums."
+  },
+  {
+    "id": 2,
+    "numb": "02",
+    "title": "Art Direction",
+    "icon": "/assets/imgs/serv-icons/1.png",
+    "content": "Leading creative vision with a focus on storytelling, composition, and style that aligns perfectly with brand and message."
+  },
+  {
+    "id": 3,
+    "numb": "03",
+    "title": "Web Development",
+    "icon": "/assets/imgs/serv-icons/2.png",
+    "content": "Building clean, responsive websites that merge performance with purposeful design for smooth, intuitive user interaction and brand consistency."
+  },
+  {
+    "id": 4,
+    "numb": "04",
+    "title": "Branding Strategy",
+    "icon": "/assets/imgs/serv-icons/0.png",
+    "content": "Crafting cohesive brand identities through research, visual direction, and storytelling to ensure lasting impact and recognition across platforms."
+  }
+]

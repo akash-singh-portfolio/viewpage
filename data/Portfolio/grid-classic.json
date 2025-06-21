@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/works/ai/1.webp",
+    "link": "/project1",
+    "category": "Google Gemini",
+    "title": "Inspired by Harley Quinn"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/works/ai/2.webp",
+    "link": "/project2",
+    "category": "Leonardo",
+    "title": "Massive Stone Creature"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/works/ai/3.webp",
+    "link": "/project3",
+    "category": "Google Gemini",
+    "title": "Terminator: Dark Fate"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/works/ai/4.webp",
+    "link": "/project4",
+    "category": "leonardo",
+    "title": "Mysterious Scientist"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/works/ai/5.webp",
+    "link": "/project1",
+    "category": "leonardo",
+    "title": "Zombie Couple"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/works/ai/6.webp",
+    "link": "/project2",
+    "category": "Envato",
+    "title": "Woman Stands Alone"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/works/ai/7.webp",
+    "link": "/project3",
+    "category": "Envato",
+    "title": "Female Warrior"
+  },
+  {
+    "id": 8,
+    "image": "/assets/imgs/works/ai/8.webp",
+    "link": "/project4",
+    "category": "Envato",
+    "title": "Two Armored Warriors"
+  }
+]

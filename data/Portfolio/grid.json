@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/works/full/8.webp",
+    "link": "/project1",
+    "title": "Retouch Photo",
+    "category": "Digital Design"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/works/full/2.webp",
+    "link": "/project2",
+    "title": "Earthmade Aroma",
+    "category": "Digital Design"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/works/full/12.webp",
+    "link": "/project3",
+    "title": "Bank Rebranding",
+    "category": "Digital Design"
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/works/full/4.webp",
+    "link": "/project4",
+    "title": "The joy of music",
+    "category": "Digital Design"
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/works/full/5.webp",
+    "link": "/project1",
+    "title": "Blue Adobe MAX",
+    "category": "Digital Design"
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/works/full/6.webp",
+    "link": "/project2",
+    "title": "Carved Wood",
+    "category": "Digital Design"
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/works/full/7.webp",
+    "link": "/project3",
+    "title": "Viclone",
+    "category": "Digital Design"
+  },
+  {
+    "id": 8,
+    "image": "/assets/imgs/works/full/8.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 9,
+    "image": "/assets/imgs/works/full/11.webp",
+    "link": "/project1",
+    "title": "Avocado Cutter",
+    "category": "Digital Design"
+  },
+  {
+    "id": 10,
+    "image": "/assets/imgs/works/full/1.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 11,
+    "image": "/assets/imgs/works/full/3.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 12,
+    "image": "/assets/imgs/works/full/10.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 13,
+    "image": "/assets/imgs/works/full/13.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 14,
+    "image": "/assets/imgs/works/full/14.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 15,
+    "image": "/assets/imgs/works/full/15.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 16,
+    "image": "/assets/imgs/works/full/16.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 17,
+    "image": "/assets/imgs/works/full/17.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 18,
+    "image": "/assets/imgs/works/full/18.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 19,
+    "image": "/assets/imgs/works/full/19.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 20,
+    "image": "/assets/imgs/works/full/20.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  },
+  {
+    "id": 21,
+    "image": "/assets/imgs/works/full/22.webp",
+    "link": "/project4",
+    "title": "Blom Air Purifier",
+    "category": "Digital Design"
+  }
+]

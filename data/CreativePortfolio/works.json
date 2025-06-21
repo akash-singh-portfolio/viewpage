@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "/assets/imgs/works/full/8.webp",
+    "category": "Photoshop",
+    "title": "Manipulation",
+    "link": "/project1"
+  },
+  {
+    "id": 2,
+    "img": "/assets/imgs/works/full/2.webp",
+    "category": "3D Modeling",
+    "title": "ChairFiber Armchair",
+    "link": "/project2"
+  },
+  {
+    "id": 3,
+    "img": "/assets/imgs/works/full/12.webp",
+    "category": "3D Modeling",
+    "title": "sawed-off shotgun",
+    "link": "/project3"
+  },
+  {
+    "id": 4,
+    "img": "/assets/imgs/works/full/4.webp",
+    "category": "Product Design",
+    "title": "The joy of music",
+    "link": "/project4"
+  },
+  {
+    "id": 5,
+    "img": "/assets/imgs/works/full/5.webp",
+    "category": "Digital Art",
+    "title": "Blue Adobe MAX",
+    "link": "/project1"
+  },
+  {
+    "id": 6,
+    "img": "/assets/imgs/works/full/6.webp",
+    "category": "Web Design",
+    "title": "Carved Wood",
+    "link": "/project3"
+  }
+]

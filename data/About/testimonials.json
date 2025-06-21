@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "quote": "Great job! All the requested modifications were done perfectly. This is my second purchase, and I’m really satisfied. I’ll definitely buy again soon. Thanks a lot!",
+    "author": "adi_y18",
+    "client": "Israel"
+  },
+  {
+    "id": 2,
+    "quote": "Absolutely perfect! The HTML code is clean, well-structured, and exactly what I was looking for. Just as described in the gig — thank you so much!",
+    "author": "finchy",
+    "client": "Australia"
+  },
+  {
+    "id": 3,
+    "quote": "I hired Akash Singh to redesign the HTML table and populate it with data. Great job, exceeded my expectations. I am very pleased with the results and would highly recommend their services to anyone needing similar work. Their attention to detail, professionalism and communication throughout the project was exceptional. Thanks for a job well done! I highly recommend to everyone.",
+    "author": "sauliusb",
+    "client": "Lithuania"
+  },
+  {
+    "id": 2,
+    "quote": "Seller was very helpful and professional. He did an amazing job. Would highly recommend him.",
+    "author": "codesmittty",
+    "client": "United States"
+  }
+]
