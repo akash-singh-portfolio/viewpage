@@ -11,7 +11,7 @@
           <CreativePortfoliomarquee />
           <CreativePortfolioAbout />
           <CreativePortfolioServices />
-          <CreativePortfolioworks />
+          <CreativePortfolioWorks />
           <CreativePortfoliotestimonials />
         </div>
         <CreativePortfolioContact />
@@ -29,7 +29,7 @@ useHead({
     class: 'crev-portfolio'
   },
   script: [
-    { src: "/assets/js/smoother-script.js", defer: true }
+    { src: "/viewpage/assets/js/smoother-script.js", defer: true }
   ]
 });
 </script>

@@ -16,10 +16,19 @@
           </div>
         </div>
       </div>
+
       <div class="work-crus">
-        <Swiper v-bind="swiperOptions">
-          <template v-for="item in data" :key="item.id">
-            <SwiperSlide>
+        <ClientOnly>
+          <Swiper
+            :modules="[Navigation]"
+            :slides-per-view="'auto'"
+            :space-between="30"
+            :navigation="{
+              nextEl: '.work-crev .swiper-button-next',
+              prevEl: '.work-crev .swiper-button-prev'
+            }"
+          >
+            <SwiperSlide v-for="item in data" :key="item.id">
               <div class="item">
                 <div class="img">
                   <img :src="item.img" alt="" />
@@ -33,8 +42,8 @@
                 <nuxt-link :to="item.link" class="link-overlay"></nuxt-link>
               </div>
             </SwiperSlide>
-          </template>
-        </Swiper>
+          </Swiper>
+        </ClientOnly>
       </div>
     </div>
   </section>
@@ -43,15 +52,9 @@
 <script setup>
 import data from '@/data/CreativePortfolio/works.json';
 import { Swiper, SwiperSlide } from 'swiper/vue';
-import { Navigation } from 'swiper';
+import { Navigation } from 'swiper/modules'; // ✅ Swiper 11 uses /modules path
 
-const swiperOptions = {
-  modules: [Navigation],
-  slidesPerView: 'auto',
-  spaceBetween: 30,
-  navigation: {
-    nextEl: '.work-crev .swiper-button-next',
-    prevEl: '.work-crev .swiper-button-prev',
-  },
-};
+// ✅ Also import Swiper styles
+import 'swiper/css';
+import 'swiper/css/navigation';
 </script>

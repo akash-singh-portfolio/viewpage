@@ -1,13 +1,21 @@
+import { generate } from "@vue/compiler-core";
+
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  compatibilityDate: '2025-05-15',
+  ssr: true, // Required for proper static generation with `nuxi generate`
 
-  ssr: true, // ➤ Disable SSR to enable static SPA mode (generates dist folder)
   app: {
+    // This MUST match the GitHub repo name for correct routing
     baseURL: '/viewpage/',
+    buildAssetsDir: 'assets/',
   },
+  nitro: {
+    preset: 'static' // ensure Nitro generates static files
+  },
+
+  compatibilityDate: '2025-05-15',
 
   devtools: {
     enabled: true
   }
-})
+});

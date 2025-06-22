@@ -40,7 +40,7 @@
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
                 <div class="o-hidden">
-                  <a href="/about" class="link animsition-link" @click="closeMenu"><span class="nm">02.</span>About</a>
+                  <a href="/viewpage/about/" class="link animsition-link" @click="closeMenu"><span class="nm">02.</span>About</a>
                 </div>
               </li>
               <li @mouseenter="handleMouseEnter" @mouseleave="handleMouseLeave">
