@@ -1,0 +1,1 @@
+import{_ as r,a as t}from"./CTRbvSsL.js";import{_ as a,c,o as _,b as o,$ as m,F as l}from"./CIff_lUE.js";const f={};function d(e,p){const n=r,s=t;return _(),c(l,null,[o(n),o(s),m(e.$slots,"default")],64)}const $=a(f,[["render",d]]);export{$ as default};
