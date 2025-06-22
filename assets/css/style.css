@@ -5760,8 +5760,8 @@ footer .logo img {
 }
 
 .full-showcase .swiper-pagination {
-  bottom: 40px;
-  left: 50%;
+  bottom: 40px !important;
+  left: 50% !important;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
